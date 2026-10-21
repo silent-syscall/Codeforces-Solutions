@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 21 | 10 |
+| 22 | 10 |
 
 ---
 
@@ -17,8 +17,8 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (17)
-- [math](#math) (2)
+- [implementation](#implementation) (18)
+- [math](#math) (3)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (8)
@@ -66,6 +66,7 @@
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/silent-syscall/Codeforces-Solutions/blob/HEAD/116/A%20-%20Tram/solution.cpp) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/silent-syscall/Codeforces-Solutions/blob/HEAD/118/A%20-%20String%20Task/solution.cpp) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/silent-syscall/Codeforces-Solutions/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+| 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/silent-syscall/Codeforces-Solutions/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/silent-syscall/Codeforces-Solutions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/silent-syscall/Codeforces-Solutions/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/silent-syscall/Codeforces-Solutions/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
@@ -84,6 +85,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/silent-syscall/Codeforces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/silent-syscall/Codeforces-Solutions/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/silent-syscall/Codeforces-Solutions/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
 
 ### shortest paths

@@ -3,16 +3,16 @@ using namespace std;
 int main(){
     int n;
     cin >> n;
-    string s[n];
-    int ans = 1;
-    for(int i = 0; i < n; i++){
-        cin >> s[i];
+    vector <string> current(n);
+    cin >> current[0];
+    int answer = 1; //We already have a group at the start
+    string previous = current[0];
+    for(int i = 1; i < n; i++){
+        cin >> current[i];
+        if(current[i] != previous) answer++;
+        previous = current[i];
     }
-    for(int i = 0; i < n-1; i++){
-        if(s[i] != s[i+1]) ans++;
-    }
-    cout << ans << "
+    cout << answer << "
 ";
     return 0;
-    
 }

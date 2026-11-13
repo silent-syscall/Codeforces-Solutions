@@ -6,19 +6,19 @@
 
 | Total Problems | Topics |
 |---|---|
-| 33 | 11 |
+| 34 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [brute force](#brute-force) (4)
+- [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (5)
 - [implementation](#implementation) (26)
-- [math](#math) (6)
+- [math](#math) (7)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (2)
@@ -38,6 +38,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/silent-syscall/Codeforces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/silent-syscall/Codeforces-Solutions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 1343A | [Candies](https://codeforces.com/contest/1343/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/silent-syscall/Codeforces-Solutions/blob/HEAD/1343/A%20-%20Candies/solution.cpp) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/silent-syscall/Codeforces-Solutions/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/silent-syscall/Codeforces-Solutions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 
@@ -101,6 +102,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/silent-syscall/Codeforces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/silent-syscall/Codeforces-Solutions/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/silent-syscall/Codeforces-Solutions/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
+| 1343A | [Candies](https://codeforces.com/contest/1343/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/silent-syscall/Codeforces-Solutions/blob/HEAD/1343/A%20-%20Candies/solution.cpp) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/silent-syscall/Codeforces-Solutions/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.cpp) |
 | 1433A | [Boring Apartments](https://codeforces.com/contest/1433/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/silent-syscall/Codeforces-Solutions/blob/HEAD/1433/A%20-%20Boring%20Apartments/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/silent-syscall/Codeforces-Solutions/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
